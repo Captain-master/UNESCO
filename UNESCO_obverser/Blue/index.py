@@ -11,12 +11,12 @@ def get_UNESCO_list():
     json_data = request.form.to_dict()
     print(json_data["countryname"])
     opration = operationmysql()
-    if json_data["countryname"] is undefined:
-	sql = 'select UNESCOnumber,UNESCOname, country_name,utime from UNESCOlist, countrylist where UNESCOlist.country_number = countrylist.country_number and countrylist.country_name= %s;'
+    if json_data["countryname"] == '':
+        sql = 'select UNESCOnumber,UNESCOname, country_name,utime from UNESCOlist, countrylist where UNESCOlist.country_number = countrylist.country_number and countrylist.country_name= %s;'
         values = (json_data["countryname"],)
-        result = operation.search(sql=sql, values=values)
-    else : 
-    	sql = 'select UNESCOnumber,UNESCOname, country_name,utime from UNESCOlist, countrylist where UNESCOlist.country_number = countrylist.country_number;'
+        result = opration.search(sql=sql, values=values)
+    else:
+        sql = 'select UNESCOnumber,UNESCOname, country_name,utime from UNESCOlist, countrylist where UNESCOlist.country_number = countrylist.country_number;'
         result = opration.search(sql=sql)
     data = {
         "code": 1,

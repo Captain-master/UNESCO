@@ -11,7 +11,7 @@ def get_UNESCO_list():
     json_data = request.form.to_dict()
     print(json_data["countryname"])
     opration = operationmysql()
-    if json_data["countryname"] == '':
+    if json_data["countryname"] == None:
         sql = 'select UNESCOnumber,UNESCOname, country_name,utime from UNESCOlist, countrylist where UNESCOlist.country_number = countrylist.country_number and countrylist.country_name= %s;'
         values = (json_data["countryname"],)
         result = opration.search(sql=sql, values=values)

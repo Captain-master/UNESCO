@@ -1,0 +1,10 @@
+Cache-Control: private,no-cache, no-store, must-revalidate
+Content-Type: text/html;charset=UTF-8
+Content-Encoding: gzip
+Content-Language: en-GB
+Expires: Wed, 02 Sep 2020 12:55:06 GMT,-1
+Age: 1
+Vary: Accept-Encoding
+Server: Microsoft-IIS/8.5
+X-Powered-By: ASP.NET
+Date: Wed, 02 Sep 2020 12:55:06 GMT

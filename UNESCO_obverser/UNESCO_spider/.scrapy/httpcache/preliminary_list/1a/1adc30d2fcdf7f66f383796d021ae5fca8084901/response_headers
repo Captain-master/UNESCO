@@ -1,0 +1,14 @@
+Cache-Control: private,no-cache, no-store, must-revalidate
+Content-Type: text/html;charset=UTF-8
+Content-Encoding: gzip
+Content-Language: en-GB
+Expires: Thu, 27 Aug 2020 17:59:15 GMT,-1
+Age: 1
+Vary: Accept-Encoding
+Server: Microsoft-IIS/8.5
+Set-Cookie: CFID=5651135; Max-Age=946080000; Expires=Sat, 20-Aug-2050 05:59:15 GMT; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: CFTOKEN=33de25dee7e58997-EABCE7DC-B486-B8BF-07360F4DB99EA139; Max-Age=946080000; Expires=Sat, 20-Aug-2050 05:59:15 GMT; Path=/; HttpOnly; SameSite=Lax
+Set-Cookie: L=en; Path=/
+Set-Cookie: L=en; Expires=Sat, 20-Aug-2050 17:59:15 GMT; Path=/
+X-Powered-By: ASP.NET
+Date: Thu, 27 Aug 2020 17:59:16 GMT

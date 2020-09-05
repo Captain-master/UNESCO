@@ -1,0 +1,6 @@
+Referer: http://whc.unesco.org/en/news/mode=list&date=2015-12-01&calendarmode=year&maxrows=198
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en
+User-Agent: Scrapy/2.3.0 (+https://scrapy.org)
+Accept-Encoding: gzip, deflate
+Cookie: CFID=8640483; CFTOKEN=aa9005364c1f53e1-13A57FF9-A5DE-23B0-0B9BDDD18C856DB4; L=en

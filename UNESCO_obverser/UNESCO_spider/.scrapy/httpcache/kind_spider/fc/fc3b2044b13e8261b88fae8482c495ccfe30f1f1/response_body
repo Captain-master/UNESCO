@@ -1,0 +1,347 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd" xmlns:wb="http://open.weibo.com/wb">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>世界文化遗产 - 世界遗产名录_中国航空旅游网</title>
+<meta name="keywords" content="世界文化遗产,世界自然遗产,世界非物质文化遗产">
+<meta name="description" content="世界文化遗产,世界自然遗产,世界非物质文化遗产等,世界遗产大全。">
+<link href="http://zhishi.cnair.com/statics/css/cnair/basic.css" rel="stylesheet" type="text/css" />
+<link href="http://zhishi.cnair.com/statics/css/cnair/structure.css" rel="stylesheet" type="text/css" />
+<link href="http://zhishi.cnair.com/statics/css/cnair/style.css" rel="stylesheet" type="text/css" />
+<link href="http://zhishi.cnair.com/statics/css/cnair/pic/list.css" rel="stylesheet" type="text/css" />
+<link href="http://zhishi.cnair.com/statics/css/cnair/default_blue.css" rel="stylesheet" type="text/css" />
+<link href="http://zhishi.cnair.com/statics/css/cnair/reset.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://zhishi.cnair.com/statics/js/jquery.min.js"></script>
+<script type="text/javascript" src="http://zhishi.cnair.com/statics/js/cnair/basic.js"></script>
+<script type="text/javascript" src="http://zhishi.cnair.com/statics/js/cnair/pic/jquery.cnair.pic.list.js"></script>
+<script type="text/javascript" src="http://zhishi.cnair.com/statics/js/jquery.sgallery.js"></script>
+
+<script src="http://tjs.sjs.sinajs.cn/open/api/js/wb.js" type="text/javascript" charset="utf-8"></script>
+
+</head>
+<body>
+
+
+	<div id="BTop" class="TWAll">
+		<div id="BTopArea" class="TArea">
+			<div id="BTopAreaLeft">中国航空旅游网欢迎您！</div>
+			<div id="BTopAreaRight">
+				<script type="text/javascript">document.write('<iframe src="http://yichan.cnair.com/index.php?m=member&c=index&a=mini&forward='+encodeURIComponent(location.href)+'&siteid=1" allowTransparency="true"  width="500" height="24" frameborder="0" scrolling="no"></iframe>')</script>
+			</div>		</div>
+	</div>
+	<div id="BTopBG" class="TWAll" style="display:none;">
+	</div>
+	<div id="BTopReplace" class="TWAll" style="display:none;">
+	</div>
+	<div id="BLogo" class="TWAll">
+		<div id="BLogoArea" class="TArea">
+			<div id="Logo"><a href="http://www.cnair.com/" target="_blank" title="中国航空旅游网"><img src="http://zhishi.cnair.com/statics/images/cnair/cnair_logo_180_60.gif" border="0" alt="中国航空旅游网" /></a></div>
+			<div id="Search"><form class="LogoAreaSearch" action="http://yichan.cnair.com/index.php" method="get" target="_blank" onsubmit="return LogoAreaSearchFormSubmit();">
+		<div class="sp">
+			<div class="content">新闻</div>
+			<div class="">▼</div>
+			<div class="nohover" id="querySite">
+				<ul>
+					<li defalutValue="请输入新闻标题" action="http://news.cnair.com/index.php" content="新闻" typeid="1" class="Selected">航空旅游新闻</li>
+					<li defalutValue="请输入图片标题" action="http://pic.cnair.com/index.php" content="图库" typeid="3">航空旅游图片</li>
+					<li defalutValue="请输入出行参考标题" action="http://memo.cnair.com/index.php" content="出行" typeid="1">旅游出行参考</li>
+					<li defalutValue="请输入航空知识标题" action="http://zhishi.cnair.com/index.php" content="知识" typeid="1">航空知识手册</li>
+				</ul>
+			</div>
+		</div>
+		<input type="submit" id="searchSubmit" value="搜  索" />
+		<input type="text" class="" value="请输入新闻标题" defalutValue="请输入新闻标题" name="q" id="keywords"/>
+		<input type="hidden" name="m" value="search"/>
+		<input type="hidden" name="c" value="index"/>
+		<input type="hidden" name="a" value="init"/>
+		<input type="hidden" name="typeid" value="1" id="typeid"/>
+		<input type="hidden" name="siteid" value="1" id="siteid"/>
+</form></div>
+			<div id="Tools"><div id="size60"><a href="javascript:;" class="weiboLogin">微博登录</a><a href="javascript:;" class="QQLogin">QQ登录</a></div></div>
+		</div>
+	</div>
+	<div id="BNav" class="TWAll">
+		<div id="BNavArea" class="TArea">
+			<ul>
+				<li hostvalue="www.cnair.com"><div id="lidivall"><div class="b"></div><div class="t FCWhite"><a href="http://www.cnair.com/" target="_top">首　页</a></div></div></li>
+				<li hostvalue="news.cnair.com"><div id="lidivall"><div class="b"></div><div class="t FCWhite"><a href="http://news.cnair.com/" target="_top">航旅新闻</a></div></div></li>
+				<li hostvalue="pic.cnair.com"><div id="lidivall"><div class="b"></div><div class="t FCWhite"><a href="http://pic.cnair.com/" target="_top">航旅图片</a></div></div></li>
+				<li hostvalue="hotel.cnair.com"><div id="lidivall"><div class="b"></div><div class="t FCWhite"><a href="http://hotel.cnair.com/" target="_top">酒店预订</a></div></div></li>
+				<li hostvalue="ticket.cnair.com"><div id="lidivall"><div class="b"></div><div class="t FCWhite"><a href="http://ticket.cnair.com/" target="_top">机票查询</a></div></div></li>
+				<li hostvalue="123.cnair.com"><div id="lidivall"><div class="b"></div><div class="t FCWhite"><a href="http://123.cnair.com/" target="_top">机票验真</a></div></div></li>
+				<li hostvalue="zhishi.cnair.com"><div id="lidivall"><div class="b"></div><div class="t FCWhite"><a href="http://zhishi.cnair.com/" target="_top">航空知识</a></div></div></li>
+				<li hostvalue="memo.cnair.com"><div id="lidivall"><div class="b"></div><div class="t FCWhite"><a href="http://memo.cnair.com/" target="_top">出行参考</a></div></div></li>
+				<li hostvalue="jixing.cnair.com"><div id="lidivall"><div class="b"></div><div class="t FCWhite"><a href="http://www.cnair.com/jixing/" target="_top">飞机机型</a></div></div></li>
+				<li hostvalue="spot.cnair.com"><div id="lidivall"><div class="b"></div><div class="t FCWhite"><a href="http://spot.cnair.com/" target="_top">旅游景点</a></div></div></li>
+				<li hostvalue="abroad.cnair.com"><div id="lidivall"><div class="b"></div><div class="t FCWhite"><a href="http://abroad.cnair.com/" target="_top">外国景点</a></div></div></li>
+				<li hostvalue="yichan.cnair.com"><div id="lidivall"><div class="b"></div><div class="t FCWhite"><a href="http://yichan.cnair.com/" target="_top">世界遗产</a></div></div></li>
+
+
+			</ul>
+		</div>
+	</div>
+	<div id="BKeyWords" class="TWAll">
+		<div id="BKeyWordsArea" class="TArea">
+			<div style="width:15px;height:30px;float:left;"></div>
+<div style="height:30px;float:left;width:200px;">
+	<img src="/statics/images/cnair/cnair_pd.png" height="60" width="200">
+</div>
+<div id="bdshare" class="bdshare_t bds_tools_32 get-codes-bdshare" style="float:right;height:32px;margin-top:8px;">
+	<a class="bds_tsina"></a>
+	<a class="bds_tqq"></a>
+	<a class="bds_renren"></a>
+	<a class="bds_qzone"></a>
+	<a class="bds_hi"></a>
+	<a class="bds_baidu"></a>
+	<a class="bds_douban"></a>
+	<a class="bds_kaixin001"></a>
+		<span class="bds_more"></span>
+</div>		</div>
+	</div><style type="text/css">
+<!--
+-->
+</style>
+<div id="ConBodyList" class="CWidth">
+	<div id="ConBodyLeft" class="CLWidth">
+		<div id="theCurrent"><a href="http://www.cnair.com/">中国航空旅游网</a> > <a href="http://yichan.cnair.com/" target="_top" title="世界遗产">世界遗产</a> > <a href="http://yichan.cnair.com/wenhua/">世界文化遗产</a> >  列表</div>
+				<div id="theContent">
+						<div class="mainListNewsInfo">
+								<div class="mainListTitle"><span class="mainNewsTitle"><a href="http://yichan.cnair.com/506/" target="_blank" style="" >卡萨尔的罗马别墅</a></span></div><div class="mainListNewsDate">2013-09-16 16:54:25</div>
+			</div>
+						<div class="mainListNewsInfo">
+								<div class="mainListTitle"><span class="mainNewsTitle"><a href="http://yichan.cnair.com/505/" target="_blank" style="" >巴鲁米尼的努拉格</a></span></div><div class="mainListNewsDate">2013-09-16 16:54:25</div>
+			</div>
+						<div class="mainListNewsInfo">
+								<div class="mainListTitle"><span class="mainNewsTitle"><a href="http://yichan.cnair.com/504/" target="_blank" style="" >奇伦托和迪亚诺河谷国家公园</a></span></div><div class="mainListNewsDate">2013-09-16 16:54:25</div>
+			</div>
+						<div class="mainListNewsInfo">
+								<div class="mainListTitle"><span class="mainNewsTitle"><a href="http://yichan.cnair.com/503/" target="_blank" style="" >乌比诺历史中心</a></span></div><div class="mainListNewsDate">2013-09-16 16:54:25</div>
+			</div>
+						<div class="mainListNewsInfo">
+								<div class="mainListTitle"><span class="mainNewsTitle"><a href="http://yichan.cnair.com/502/" target="_blank" style="" >阿奎拉古迹区及长方形主教教堂</a></span></div><div class="mainListNewsDate">2013-09-16 16:54:25</div>
+			</div>
+						<div class="mainListNewsInfo">
+								<div class="mainListTitle"><span class="mainNewsTitle"><a href="http://yichan.cnair.com/501/" target="_blank" style="" >阿德利阿纳村庄</a></span></div><div class="mainListNewsDate">2013-09-16 16:54:25</div>
+			</div>
+						<div class="mainListNewsInfo">
+								<div class="mainListTitle"><span class="mainNewsTitle"><a href="http://yichan.cnair.com/499/" target="_blank" style="" >阿西西的圣弗朗西斯科教堂及其它的圣方济各遗迹</a></span></div><div class="mainListNewsDate">2013-09-16 16:54:25</div>
+			</div>
+						<div class="mainListNewsInfo">
+								<div class="mainListTitle"><span class="mainNewsTitle"><a href="http://yichan.cnair.com/498/" target="_blank" style="" >维罗纳城</a></span></div><div class="mainListNewsDate">2013-09-16 16:54:25</div>
+			</div>
+						<div class="mainListNewsInfo">
+								<div class="mainListTitle"><span class="mainNewsTitle"><a href="http://yichan.cnair.com/497/" target="_blank" style="" >蒂沃利城的伊斯特别墅</a></span></div><div class="mainListNewsDate">2013-09-16 16:54:25</div>
+			</div>
+						<div class="mainListNewsInfo">
+								<div class="mainListTitle"><span class="mainNewsTitle"><a href="http://yichan.cnair.com/496/" target="_blank" style="" >晚期的巴洛克城镇</a></span></div><div class="mainListNewsDate">2013-09-16 16:54:25</div>
+			</div>
+						<div class="mainListNewsInfo">
+								<div class="mainListTitle"><span class="mainNewsTitle"><a href="http://yichan.cnair.com/495/" target="_blank" style="" >皮埃蒙特及伦巴第圣山</a></span></div><div class="mainListNewsDate">2013-09-16 16:54:25</div>
+			</div>
+						<div class="mainListNewsInfo">
+								<div class="mainListTitle"><span class="mainNewsTitle"><a href="http://yichan.cnair.com/494/" target="_blank" style="" >罗马历史中心</a></span></div><div class="mainListNewsDate">2013-09-16 16:54:25</div>
+			</div>
+						<div class="mainListNewsInfo">
+								<div class="mainListTitle"><span class="mainNewsTitle"><a href="http://yichan.cnair.com/493/" target="_blank" style="" >法隆寺</a></span></div><div class="mainListNewsDate">2013-09-16 16:54:25</div>
+			</div>
+						<div class="mainListNewsInfo">
+								<div class="mainListTitle"><span class="mainNewsTitle"><a href="http://yichan.cnair.com/492/" target="_blank" style="" >姬路城</a></span></div><div class="mainListNewsDate">2013-09-16 16:54:25</div>
+			</div>
+						<div class="mainListNewsInfo">
+								<div class="mainListTitle"><span class="mainNewsTitle"><a href="http://yichan.cnair.com/489/" target="_blank" style="" >古京都遗址</a></span></div><div class="mainListNewsDate">2013-09-16 16:54:25</div>
+			</div>
+						<div class="mainListNewsInfo">
+								<div class="mainListTitle"><span class="mainNewsTitle"><a href="http://yichan.cnair.com/488/" target="_blank" style="" >白川乡和五屹山历史村座</a></span></div><div class="mainListNewsDate">2013-09-16 16:54:25</div>
+			</div>
+						<div class="mainListNewsInfo">
+								<div class="mainListTitle"><span class="mainNewsTitle"><a href="http://yichan.cnair.com/487/" target="_blank" style="" >广岛和平公园（原子弹爆炸圆顶屋）</a></span></div><div class="mainListNewsDate">2013-09-16 16:54:25</div>
+			</div>
+						<div class="mainListNewsInfo">
+								<div class="mainListTitle"><span class="mainNewsTitle"><a href="http://yichan.cnair.com/486/" target="_blank" style="" >严岛神殿</a></span></div><div class="mainListNewsDate">2013-09-16 16:54:25</div>
+			</div>
+						<div class="mainListNewsInfo">
+								<div class="mainListTitle"><span class="mainNewsTitle"><a href="http://yichan.cnair.com/485/" target="_blank" style="" >历史名城奈良</a></span></div><div class="mainListNewsDate">2013-09-16 16:54:25</div>
+			</div>
+						<div class="mainListNewsInfo">
+								<div class="mainListTitle"><span class="mainNewsTitle"><a href="http://yichan.cnair.com/484/" target="_blank" style="" >日光的神殿与庙宇</a></span></div><div class="mainListNewsDate">2013-09-16 16:54:25</div>
+			</div>
+						<div class="mainListNewsInfo">
+								<div class="mainListTitle"><span class="mainNewsTitle"><a href="http://yichan.cnair.com/483/" target="_blank" style="" >琉球王国时期的遗迹和相关建筑</a></span></div><div class="mainListNewsDate">2013-09-16 16:54:25</div>
+			</div>
+						<div class="mainListNewsInfo">
+								<div class="mainListTitle"><span class="mainNewsTitle"><a href="http://yichan.cnair.com/482/" target="_blank" style="" >耶路撒冷城堡和哭墙</a></span></div><div class="mainListNewsDate">2013-09-16 16:54:25</div>
+			</div>
+						<div class="mainListNewsInfo">
+								<div class="mainListTitle"><span class="mainNewsTitle"><a href="http://yichan.cnair.com/481/" target="_blank" style="" >佩特拉</a></span></div><div class="mainListNewsDate">2013-09-16 16:54:25</div>
+			</div>
+						<div class="mainListNewsInfo">
+								<div class="mainListTitle"><span class="mainNewsTitle"><a href="http://yichan.cnair.com/480/" target="_blank" style="" >库塞尔阿姆拉</a></span></div><div class="mainListNewsDate">2013-09-16 16:54:25</div>
+			</div>
+						<div class="mainListNewsInfo">
+								<div class="mainListTitle"><span class="mainNewsTitle"><a href="http://yichan.cnair.com/479/" target="_blank" style="" >霍贾・艾哈迈德・亚萨维陵墓</a></span></div><div class="mainListNewsDate">2013-09-16 16:54:25</div>
+			</div>
+						<div class="mainListNewsInfo">
+								<div class="mainListTitle"><span class="mainNewsTitle"><a href="http://yichan.cnair.com/476/" target="_blank" style="" >拉穆古镇</a></span></div><div class="mainListNewsDate">2013-09-16 16:54:25</div>
+			</div>
+						<div class="mainListNewsInfo">
+								<div class="mainListTitle"><span class="mainNewsTitle"><a href="http://yichan.cnair.com/475/" target="_blank" style="" >琅勃拉邦城镇</a></span></div><div class="mainListNewsDate">2013-09-16 16:54:25</div>
+			</div>
+						<div class="mainListNewsInfo">
+								<div class="mainListTitle"><span class="mainNewsTitle"><a href="http://yichan.cnair.com/474/" target="_blank" style="" >占巴塞文化景观内的瓦普庙和相关古民居</a></span></div><div class="mainListNewsDate">2013-09-16 16:54:25</div>
+			</div>
+						<div class="mainListNewsInfo">
+								<div class="mainListTitle"><span class="mainNewsTitle"><a href="http://yichan.cnair.com/473/" target="_blank" style="" >里加的历史中心</a></span></div><div class="mainListNewsDate">2013-09-16 16:54:25</div>
+			</div>
+						<div class="mainListNewsInfo">
+								<div class="mainListTitle"><span class="mainNewsTitle"><a href="http://yichan.cnair.com/472/" target="_blank" style="" >安贾尔（考古遗址）</a></span></div><div class="mainListNewsDate">2013-09-16 16:54:25</div>
+			</div>
+						<div class="mainListNewsInfo">
+								<div class="mainListTitle"><span class="mainNewsTitle"><a href="http://yichan.cnair.com/471/" target="_blank" style="" >巴勒贝克</a></span></div><div class="mainListNewsDate">2013-09-16 16:54:25</div>
+			</div>
+						<div class="mainListNewsInfo">
+								<div class="mainListTitle"><span class="mainNewsTitle"><a href="http://yichan.cnair.com/470/" target="_blank" style="" >比布鲁斯</a></span></div><div class="mainListNewsDate">2013-09-16 16:54:25</div>
+			</div>
+						<div class="mainListNewsInfo">
+								<div class="mainListTitle"><span class="mainNewsTitle"><a href="http://yichan.cnair.com/469/" target="_blank" style="" >提尔城</a></span></div><div class="mainListNewsDate">2013-09-16 16:54:25</div>
+			</div>
+						<div class="mainListNewsInfo">
+								<div class="mainListTitle"><span class="mainNewsTitle"><a href="http://yichan.cnair.com/468/" target="_blank" style="" >圣谷</a></span></div><div class="mainListNewsDate">2013-09-16 16:54:25</div>
+			</div>
+						<div class="mainListNewsInfo">
+								<div class="mainListTitle"><span class="mainNewsTitle"><a href="http://yichan.cnair.com/467/" target="_blank" style="" >莱普蒂斯马格纳</a></span></div><div class="mainListNewsDate">2013-09-16 16:54:25</div>
+			</div>
+						<div class="mainListNewsInfo">
+								<div class="mainListTitle"><span class="mainNewsTitle"><a href="http://yichan.cnair.com/466/" target="_blank" style="" >塞卜拉泰考古遗址</a></span></div><div class="mainListNewsDate">2013-09-16 16:54:25</div>
+			</div>
+						<div class="mainListNewsInfo">
+								<div class="mainListTitle"><span class="mainNewsTitle"><a href="http://yichan.cnair.com/465/" target="_blank" style="" >昔兰尼遗址</a></span></div><div class="mainListNewsDate">2013-09-16 16:54:25</div>
+			</div>
+						<div class="mainListNewsInfo">
+								<div class="mainListTitle"><span class="mainNewsTitle"><a href="http://yichan.cnair.com/464/" target="_blank" style="" >达德拉尔特・阿尔库斯石窟</a></span></div><div class="mainListNewsDate">2013-09-16 16:54:25</div>
+			</div>
+						<div class="mainListNewsInfo">
+								<div class="mainListTitle"><span class="mainNewsTitle"><a href="http://yichan.cnair.com/463/" target="_blank" style="" >加达梅斯老城</a></span></div><div class="mainListNewsDate">2013-09-16 16:54:25</div>
+			</div>
+						<div class="mainListNewsInfo">
+								<div class="mainListTitle"><span class="mainNewsTitle"><a href="http://yichan.cnair.com/462/" target="_blank" style="" >维尔纽斯历史中心</a></span></div><div class="mainListNewsDate">2013-09-16 16:54:25</div>
+			</div>
+						<div class="mainListNewsInfo">
+								<div class="mainListTitle"><span class="mainNewsTitle"><a href="http://yichan.cnair.com/461/" target="_blank" style="" >库尔斯沙嘴遗址 </a></span></div><div class="mainListNewsDate">2013-09-16 16:54:25</div>
+			</div>
+						<div class="mainListNewsInfo">
+								<div class="mainListTitle"><span class="mainNewsTitle"><a href="http://yichan.cnair.com/460/" target="_blank" style="" >卢森堡 ( 旧城区及城防工事 )</a></span></div><div class="mainListNewsDate">2013-09-16 16:54:25</div>
+			</div>
+						<div class="mainListNewsInfo">
+								<div class="mainListTitle"><span class="mainNewsTitle"><a href="http://yichan.cnair.com/458/" target="_blank" style="" >安布希曼加的皇家蓝山行宫</a></span></div><div class="mainListNewsDate">2013-09-16 16:54:25</div>
+			</div>
+						<div class="mainListNewsInfo">
+								<div class="mainListTitle"><span class="mainNewsTitle"><a href="http://yichan.cnair.com/454/" target="_blank" style="" >杰内古城</a></span></div><div class="mainListNewsDate">2013-09-16 16:54:25</div>
+			</div>
+						<div class="mainListNewsInfo">
+								<div class="mainListTitle"><span class="mainNewsTitle"><a href="http://yichan.cnair.com/453/" target="_blank" style="" >廷巴克图</a></span></div><div class="mainListNewsDate">2013-09-16 16:54:25</div>
+			</div>
+						<div class="mainListNewsInfo">
+								<div class="mainListTitle"><span class="mainNewsTitle"><a href="http://yichan.cnair.com/451/" target="_blank" style="" >哈尔・萨夫列尼地下宫殿</a></span></div><div class="mainListNewsDate">2013-09-16 16:54:25</div>
+			</div>
+						<div class="mainListNewsInfo">
+								<div class="mainListTitle"><span class="mainNewsTitle"><a href="http://yichan.cnair.com/450/" target="_blank" style="" >瓦莱塔古城</a></span></div><div class="mainListNewsDate">2013-09-16 16:54:25</div>
+			</div>
+						<div class="mainListNewsInfo">
+								<div class="mainListTitle"><span class="mainNewsTitle"><a href="http://yichan.cnair.com/449/" target="_blank" style="" >马耳他巨石庙</a></span></div><div class="mainListNewsDate">2013-09-16 16:54:25</div>
+			</div>
+						<div class="mainListNewsInfo">
+								<div class="mainListTitle"><span class="mainNewsTitle"><a href="http://yichan.cnair.com/447/" target="_blank" style="" >瓦丹、欣盖提、提希特和瓦拉塔古镇</a></span></div><div class="mainListNewsDate">2013-09-16 16:54:25</div>
+			</div>
+						<div class="mainListNewsInfo">
+								<div class="mainListTitle"><span class="mainNewsTitle"><a href="http://yichan.cnair.com/445/" target="_blank" style="" >奇琴伊察（西班牙到来以前的城市）</a></span></div><div class="mainListNewsDate">2013-09-16 16:54:25</div>
+			</div>
+					</div>
+		<div id="thePage">
+			<a class="a1">732条</a> <a href="/wenhua/index7.htm" class="a1">上一页</a> <a href="/wenhua/index.htm">1</a>.. <a href="/wenhua/index4.htm">4</a> <a href="/wenhua/index5.htm">5</a> <a href="/wenhua/index6.htm">6</a> <a href="/wenhua/index7.htm">7</a> <span>8</span> <a href="/wenhua/index9.htm">9</a> <a href="/wenhua/index10.htm">10</a> <a href="/wenhua/index11.htm">11</a> <a href="/wenhua/index12.htm">12</a> ..<a href="/wenhua/index15.htm">15</a> <a href="/wenhua/index9.htm" class="a1">下一页</a>		</div>
+		</div>
+	<div id="ConBodyRight">
+		<div class="CRWidth"><script type="text/javascript" src="http://zhishi.cnair.com/statics/js/cnair/list/you1.js"></script></div>
+		<div class="CRWidth"><script type="text/javascript" src="http://zhishi.cnair.com/statics/js/cnair/list/you2.js"></script></div>
+		<div class="CRWidth"><script type="text/javascript" src="http://zhishi.cnair.com/statics/js/cnair/list/you3.js"></script></div>
+		<div class="CRWidth"><script type="text/javascript" src="http://zhishi.cnair.com/statics/js/cnair/list/you4.js"></script></div>
+		<div class="CRWidth"><script type="text/javascript" src="http://zhishi.cnair.com/statics/js/cnair/list/you5.js"></script></div>
+	</div>
+</div>
+<div class="bk10 bcbody"></div>
+
+	<div id="BFooterNav" class="TWAll">
+		<div id="BFooterNavArea" class="TArea">
+			<div id="N1" class="Nav"><h3 class="subtitle">微信关注中国航空旅游网</h3>
+<div class="qr" style="margin:auto 18px; width:150px; height:150px;">
+<img src="http://news.cnair.com/statics/images/cnair/cnair_com_weixin_150_150.jpg" width="150" height="150">
+</div></div>
+			<div id="N2" class="Nav"><h3 class="subtitle">关注</h3>
+	<ul class="list">
+		<li><wb:follow-button uid="2189170435" type="red_1" width="67" height="24" ></wb:follow-button></li>
+		<li><iframe id=review height=24 marginheight=0 src="http://follow.v.t.qq.com/index.php?c=follow&a=quick&name=cnaircom&style=5&t=1363824889984&f=0" frameborder=0 width=125 allowtransparency marginwidth=0></iframe>
+</li>	
+		<li></li>
+		<li></li>
+		<li></li>
+		<li></li>
+		<li></li>
+		<li></li>
+		<li></li>
+		<li></li>
+	</ul></div>
+			<div id="N3" class="Nav"><h3 id="bdshare_FooterNav" class="subtitle">分享</h3>
+	<ul id="bdshare" class="bdshare_t bds_tools get-codes-bdshare bdshare_FooterNav list">
+		<li><a class="bds_tsina">新浪微博</a></li>
+		<li><a class="bds_qzone">QQ空间</a></li>
+		<li><a class="bds_tqq">腾讯微博</a></li>
+		<li><a class="bds_renren">人人网</a></li>
+		<li><a class="bds_t163">网易微博</a></li>
+		<li><a class="bds_baidu">百度搜藏</a></li>
+		<li><a class="bds_kaixin001">开心网</a></li>
+		<li><a class="bds_douban">豆瓣网</a></li>
+		<li><a class="bds_hi">百度空间</a></li>
+		<li><a class="bds_more">更多分享</a></li>
+	</ul>
+<style type="text/css">
+.bdshare_FooterNav li{line-height:15px; height:25px; padding:0px 0px 3px 22px;}
+</style></div>
+			<div id="N4" class="Nav Last"><h3 class="subtitle">投稿与新闻通讯员</h3>
+	<ul id="FN_4UL">
+		
+	</ul></div>
+		</div>
+	</div>
+	<div class="clear"></div>
+	<div id="BFooterContent" class="TWAll">
+		<div id="BFooterContentArea" class="TArea">
+			<A href="http://www.cnair.com/about/" target="_blank">关于我们</A> | 
+<A href="http://www.cnair.com/lianxi/" target="_blank">联系方式</A> | 
+<A href="http://www.cnair.com/banquan/" target="_blank">版权声明</A> | 
+<A href="http://www.cnair.com/pay/" target="_blank">支付方式</A> |
+辽ICP备10012394号-11 |
+<script src='http://s86.cnzz.com/stat.php?id=900693&web_id=900693' language='JavaScript' charset='gb2312'></script> |
+<script src="http://zhishi.cnair.com/statics/js/cnair/d.js"></script>
+<script type="text/javascript" id="bdshare_js" data="type=tools&amp;uid=0" ></script>
+<script type="text/javascript" id="bdshell_js"></script>
+<script type="text/javascript">
+	document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + Math.ceil(new Date()/3600000);
+</script>		</div>
+	</div>
+	<div id="GlogalHook"></div>
+<script type="text/javascript">
+$(function(){
+	$(".picbig").each(function(i){
+		var cur = $(this).find('.img-wrap').eq(0);
+		var w = cur.width();
+		var h = cur.height();
+	   $(this).find('.img-wrap img').LoadImage(true, w, h,'http://zhishi.cnair.com/statics/images/msg_img/loading.gif');
+	});
+});
+$("div#PicListContent div.PicSA div#PicPath img").load(function() {
+	T_PicSA = $(this).parents(".PicSA");
+	$("div#PicDIdentification", T_PicSA).height($("div#PicPath img", T_PicSA).height());
+	$("div#PicDIdentification div#PicMore", T_PicSA).css({"top":$("div#PicPath img", T_PicSA).height()-30});
+});
+</script>
+</body>
+</html>
